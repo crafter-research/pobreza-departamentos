@@ -4,7 +4,7 @@ Fuente pobreza: INEI, Evolución de la pobreza monetaria 2015-2024 (cuadro 3.1).
 1. Huancavelica redujo 11,8 pts (45,2→33,4 %), 3.º mayor descenso; sigue sobre el nacional (27,6 %).
 2. Convergencia: cambio vs nivel inicial rho = -0,60. Quien partía más alto bajó más.
 3. Descontando el nivel inicial, Huancavelica bajó 4,9 pts MÁS de lo esperado (junto a Amazonas, Apurímac, Lambayeque, Ica, San Martín). Por debajo de lo esperado: Loreto, Ucayali, Tumbes, Puno, Huánuco, Pasco.
-4. Gasto subnacional per cápita 2025, ejecución, saneamiento, educación, 4G: ninguno se asocia con el cambio tras descontar el nivel inicial (|rho| < 0,26; umbral 0,41 con n=23). Único borderline: emergencias hídricas por 100 mil hab. (rho -0,40).
+4. Gasto subnacional per cápita 2025, ejecución, saneamiento, educación, 4G: ninguno sale de la banda de ruido (|rho| < 0,41 con n=23) tras descontar el nivel inicial. Rozan el borde: emergencias hídricas por 100 mil hab. (rho -0,40) y gasto agropecuario por habitante (rho -0,38).
 LÍMITES: gasto 2025 es una foto posterior al periodo; n=23; asociaciones no causales. Para explicar hacen falta microdatos ENAHO (composición del ingreso: empleo asalariado, agro, transferencias, remesas) y series de gasto 2015-2024.
 
 ## ENAHO (Sumaria 2015-2024, descargada 2026-11-15; enaho.py, comparar.py)

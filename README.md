@@ -7,7 +7,7 @@
 ## Resultado en corto
 - Huancavelica sí redujo pobreza: 45,2 % → 33,4 % (−11,8 puntos), tercer mayor descenso.
 - Quien partía más alto bajó más (ρ = −0,60). Descontado eso, Huancavelica bajó 4,9 puntos más de lo esperado.
-- Gasto público por habitante, ejecución, cobertura 4G y zonas críticas no explican el cambio.
+- Gasto público por habitante, ejecución, cobertura 4G y zonas críticas no explican el cambio (ninguno sale de la banda ±0,41; emergencias hídricas y gasto agropecuario la rozan).
 - La diferencia entre los 6 departamentos que redujeron más y los 6 que redujeron menos está en el ingreso por trabajo (+S/ 103 vs +S/ 43 en independiente; +S/ 116 vs +S/ 77 en dependiente), no en transferencias (+S/ 10 en ambos).
 - Es una asociación con 6 contra 6 departamentos, no una causa.
 
